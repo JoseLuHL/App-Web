@@ -116,7 +116,7 @@ namespace App_Web
             //    {
             //        Url = "http://192.168.1.10:8080/prueba/prueba.php"
             //    };
-
+            
             //    bool useHtml = true;
             //progress.IsVisible = true;
             Webview.IsVisible = false;
